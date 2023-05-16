@@ -7,7 +7,7 @@ const content_rect = content.getBoundingClientRect();
 const bttn_rect = no_bttn.getBoundingClientRect();
 
 yes_bttn.addEventListener('click', () => {
-    question.innerHTML = 'Cannot wait to see you ;)'
+    question.innerHTML = '&#x1F95A; I am so egg-cited! &#129370;'
 });
 
 no_bttn.addEventListener('mouseover', () => {
